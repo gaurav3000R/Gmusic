@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GMusic</string>
+    <string name="textview">TextView</string>
+    <string name="todo1">TODO</string>
+    <string name="todo">TODO</string>
+    <string name="t">T</string>
+    <string name="yy">yy</string>
+    <string name="imageee">imageee</string>
+
+</resources>
